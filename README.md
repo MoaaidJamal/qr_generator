@@ -6,6 +6,7 @@ To install the application, run the following commands:
 - cd qr_generator
 - composer install
 - npm install
+- cp .env.example .env
 - php artisan key:generate
 - php artisan storage:link
 - php artisan migrate
