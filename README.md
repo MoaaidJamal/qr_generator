@@ -10,4 +10,5 @@ To install the application, run the following commands:
 - php artisan key:generate
 - php artisan storage:link
 - php artisan migrate
-- npm run dev
+- npm run build
+- php artisan serve
